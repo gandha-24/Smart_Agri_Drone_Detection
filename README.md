@@ -49,4 +49,8 @@ This project is a smart surveillance and animal deterrent system using ESP32-CAM
 - Battery-powered deployment  
 
 ## 👤 Author
-Gandha Swaroopan
+Gandha Swaroopan V M
+Divyabharathi S
+Dharani R
+Kiruthika R
+Gowsickrajan A
